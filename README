@@ -1,0 +1,30 @@
+Test de linearitate a canalelor detecotrului, fisierle se afla in folderul DataFiles2 
+intervalul de testare este 0.1 - 1.4 V, pulsuri generate la intervale egale cu un pulser
+Run0 = 0.1V
+Run1 = 0.11V
+Run2 = 0.12V
+Run3 = 0.13V
+Run4 = 0.14V
+Run5 = 0.15V
+Run6 = 0.2V
+Run7 = 0.3V
+Run8 = 0.4V
+Run9 = 0.5V
+Run10 = 0.6 V
+Run11 = 0.7 V
+Run12 = 0.8 V
+Run13 = 0.9V
+Run14 = 1.0V
+De la Run 15 am luat date numai de pe cele doua canale de interes :)
+Run15 = 1.1V
+Run16 = 1.2V
+Run17 = 1.3V
+Run18 = 1.35V
+Run19 = 1.36V
+Run20 = 1.37V
+Run21 = 1.38V
+Run22 = 1.39V
+Run23 = 1.40V
+
+
+
